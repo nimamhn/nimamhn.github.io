@@ -352,8 +352,7 @@ export default function Home() {
       </div>
 
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Nima Mehrani &mdash; Built with {"\u2764\uFE0F"} &amp; {"\u2615"}
-        </p>
+        <p>&copy; {new Date().getFullYear()} Nima Mehrani</p>
       </footer>
     </>
   );
