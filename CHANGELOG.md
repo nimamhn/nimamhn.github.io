@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-06-30
 
+chore: remove duplicate nextjs.yml workflow to fix conflict
+
+### 2026-06-30
+
+chore: update CI status
+
+### 2026-06-30
+
+chore: update changelog
+
+### 2026-06-30
+
 feat: complete redesign - colorful creative portfolio for Nima Mehrani
 
 ### 2026-06-30
@@ -190,15 +202,3 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
-### 2026-06-29
-
-fix CI: disable no-descending-specificity, upgrade Node to 22
-
-### 2026-06-29
-
-add bilingual map (OSM for FA, Google Maps for EN) to both Vercel and GitHub Pages
-
-### 2026-06-29
-
-add vercel.json, display both site URLs in contact section and README
