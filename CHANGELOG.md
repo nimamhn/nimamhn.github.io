@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-06-30
 
+feat: complete redesign - colorful creative portfolio for Nima Mehrani
+
+### 2026-06-30
+
+chore: update CI status
+
+### 2026-06-30
+
+chore: update changelog
+
+### 2026-06-30
+
 zero day
 Signed-off-by: nima-ha <nimaxmehrani@gmail.com>
 ### 2026-06-30
@@ -190,15 +202,3 @@ add bilingual map (OSM for FA, Google Maps for EN) to both Vercel and GitHub Pag
 ### 2026-06-29
 
 add vercel.json, display both site URLs in contact section and README
-
-### 2026-06-28
-
-generated
-
-### 2026-06-28
-
-upgrade 3D profile workflow to xarthurx/github-3d-profile with Solarized theme, sync README with content.json
-
-### 2026-06-07
-
-Update README.md
