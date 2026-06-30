@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-06-30
 
+feat: replace all images with fresh lively photos
+
+### 2026-06-30
+
+chore: update CI status
+
+### 2026-06-30
+
+chore: update changelog
+
+### 2026-06-30
+
 chore: remove duplicate nextjs.yml workflow to fix conflict
 
 ### 2026-06-30
@@ -190,15 +202,3 @@ fix resume download link to M.Mehrani2026.pdf on both Vercel and GitHub Pages
 
 upgrade next from 14.2.35 to 15.5.18
 Bumps [next](https://github.com/vercel/next.js) from 14.2.35 to 15.5.18.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v14.2.35...v15.5.18)
-
----
-updated-dependencies:
-- dependency-name: next
-  dependency-version: 15.5.18
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
