@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import Image from "next/image";
 import { motion, useAnimation, useInView, useReducedMotion } from "framer-motion";
 import content from "../data/content.json";
 import activityData from "../data/activity.json";
@@ -243,7 +244,7 @@ export default function Home() {
               <Reveal key={p[1]} delay={i * 0.12}>
                 <div className="project-card">
                   <div className="img-wrap">
-                    <img src={p[0]} alt={p[1]} loading="lazy" />
+                    <Image src={p[0]} alt={p[1]} width={960} height={600} loading="lazy" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
                   </div>
                   <div className="body">
                     <h3>{p[1]}</h3>
@@ -264,7 +265,7 @@ export default function Home() {
           <div className="cert-grid">
             {t.certifications.images.map((src, i) => (
               <Reveal key={src} delay={i * 0.1}>
-                <img src={src} alt={`Cert ${i + 1}`} loading="lazy" />
+                <Image src={src} alt={`Cert ${i + 1}`} width={900} height={675} loading="lazy" style={{ width: "100%", height: "auto", borderRadius: "10px", border: "1px solid var(--card-border)" }} />
               </Reveal>
             ))}
           </div>
