@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-07-10
 
+add resume PDF
+
+### 2026-07-10
+
+chore: update CI status
+
+### 2026-07-10
+
+chore: update changelog
+
+### 2026-07-10
+
 cleanup: remove unused deps, fix CI workflow, update worker config
 
 ### 2026-07-10
@@ -189,16 +201,4 @@ chore: update changelog
 ### 2026-06-30
 
 feat: replace all images with fresh lively photos
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-chore: remove duplicate nextjs.yml workflow to fix conflict
 
