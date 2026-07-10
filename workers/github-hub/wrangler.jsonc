@@ -19,7 +19,7 @@
     "crons": ["0 */6 * * *"]
   },
   "vars": {
-    "GITHUB_REPO": "nima-ha/nimamehrani",
-    "GITHUB_USER": "nimamehrani"
+    "GITHUB_REPO": "nimamhn/nimamehrani",
+    "GITHUB_USER": "nimamhn"
   }
 }
