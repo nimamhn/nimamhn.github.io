@@ -3,8 +3,8 @@
   "short_name": "N.Mehrani",
   "start_url": "/nimamehrani/",
   "display": "standalone",
-  "background_color": "#071221",
-  "theme_color": "#071221",
+  "background_color": "#0e1a2b",
+  "theme_color": "#0e1a2b",
   "icons": [
     { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
   ]

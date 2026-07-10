@@ -1,52 +1,52 @@
 {
   "en": {
-    "nav": ["About", "Skills", "Experience", "Education", "Projects", "Certifications", "Contact"],
+    "nav": ["About", "Skills", "Experience", "Education", "Projects", "Certifications", "Report", "Contact"],
     "hero": {
-      "eyebrow": "Full-Stack Developer | WordPress Expert | Site Designer",
-      "title": "I build stunning websites and powerful web solutions.",
-      "desc": "Nima Mehrani with hands-on experience in WordPress development, full-stack web programming, UI/UX design, and custom site architecture.",
+      "eyebrow": "Website Designer & Accounting Specialist",
+      "title": "I build clean, modern websites for businesses.",
+      "desc": "Nima Mehrani — combining accounting precision with creative web design. Experienced in business operations and recently delivering responsive, user-friendly websites.",
       "ctaResume": "Download Resume",
       "ctaHire": "Hire Me",
-      "chip": "Available for freelance & remote work",
+      "chip": "Available for projects & collaboration",
       "location": "Tehran, Iran",
       "langs": "English | Persian"
     },
     "about": {
       "title": "About Me",
-      "p1": "I specialize in WordPress development, custom theme & plugin creation, and full-stack web development. From design to deployment, I build fast, responsive, and user-friendly websites.",
-      "p2": "My expertise spans PHP, JavaScript, React, modern CSS, and WordPress ecosystem — delivering projects that are both beautiful and functional.",
+      "p1": "I have a background in accounting and business operations, with experience working in a laptop import company. Recently, I've discovered my passion for web design and have been building modern, responsive websites.",
+      "p2": "My accounting background gives me a unique perspective — I approach web design with attention to detail, organization, and a methodical workflow. I'm continuously learning and improving my skills in HTML, CSS, and WordPress.",
       "quickTitle": "Quick Facts",
       "quick": [
-        ["Role", "Full-Stack Developer"],
-        ["Expertise", "WordPress, PHP, React, UI/UX"],
-        ["Focus", "Web Development, Site Design, SEO"]
+        ["Role", "Website Designer"],
+        ["Background", "Accounting & Web Design"],
+        ["Focus", "Business Websites, Landing Pages"]
       ]
     },
     "skills": {
       "title": "Core Skills",
-      "desc": "Technologies and tools I use to bring ideas to life.",
+      "desc": "Skills I'm developing and using to build websites.",
       "items": [
-        ["WordPress Development", 95],
-        ["PHP & MySQL", 90],
-        ["JavaScript & React", 85],
-        ["HTML / CSS / UI Design", 92],
-        ["Full-Stack Development", 88],
-        ["SEO & Performance", 80]
+        ["HTML & CSS", 78],
+        ["WordPress", 70],
+        ["Site Design & UI", 75],
+        ["Accounting Software", 85],
+        ["Business Operations", 80],
+        ["Excel & Data Analysis", 82]
       ]
     },
     "experience": {
       "title": "Work Experience",
-      "desc": "Professional background in web development, design, and programming.",
+      "desc": "Professional background in business and web design.",
       "items": [
-        ["2020 - Present", "Freelance", "Full-Stack Developer & WordPress Expert", "Remote — custom sites, e-commerce, corporate portals"],
-        ["2018 - 2020", "Web Agency", "Site Designer & Developer", "Tehran, Iran — WordPress & custom web solutions"],
-        ["2016 - 2018", "Startup", "Junior Web Developer", "Tehran, Iran — front-end & back-end development"]
+        ["2025 - Present", "Freelance", "Website Designer", "Designing and building modern websites for small businesses."],
+        ["2020 - 2025", "Laptop Import Company", "Accounting & Operations", "Tehran, Iran — managed accounting, inventory, and business operations in a laptop import company."]
       ]
     },
     "education": {
       "title": "Education",
-      "desc": "Academic background and formal education records.",
+      "desc": "Academic background and professional training.",
       "items": [
+        ["2024 - 2025", "مجتمع فنی تهران", "Comprehensive Accounting Course", "One-year comprehensive accounting program."],
         ["2014 - 2018", "University", "Bachelor's Degree in Accounting", "Tehran, Iran"]
       ]
     },
@@ -84,56 +84,74 @@
     "stats": {
       "title": "Repo Stats",
       "desc": "Real-time statistics fetched daily via GitHub Actions."
+    },
+    "report": {
+      "title": "GitHub Report",
+      "desc": "Comprehensive overview of open source activity and contribution metrics.",
+      "overview": "Account Overview",
+      "totalStars": "Total Stars",
+      "totalForks": "Total Forks",
+      "totalRepos": "Public Repos",
+      "followers": "Followers",
+      "following": "Following",
+      "pullRequests": "Pull Requests",
+      "issues": "Issues",
+      "yearContribs": "Year Contribs",
+      "contributions": "Contribution Activity (Last 30 Days)",
+      "languages": "Language Breakdown",
+      "recentActivity": "Recent Activity",
+      "focusAreas": "Focus Areas",
+      "noData": "No data available yet."
     }
   },
   "fa": {
-    "nav": ["درباره من", "مهارت ها", "سوابق شغلی", "سوابق تحصیلی", "پروژه ها", "گواهینامه ها", "تماس"],
+    "nav": ["درباره من", "مهارت ها", "سوابق شغلی", "سوابق تحصیلی", "پروژه ها", "گواهینامه ها", "گزارش", "تماس"],
     "hero": {
-      "eyebrow": "توسعه‌دهنده فول‌استک | متخصص وردپرس | طراح سایت",
-      "title": "وب‌سایت‌های جذاب و راه‌حل‌های قدرتمند تحت وب می‌سازم.",
-      "desc": "نیما مهرانی با تجربه در توسعه وردپرس، برنامه‌نویسی فول‌استک، طراحی UI/UX و معماری سفارشی وب‌سایت.",
+      "eyebrow": "طراح سایت | متخصص حسابداری",
+      "title": "وب‌سایت‌های مدرن و تمیز برای کسب‌وکارها می‌سازم.",
+      "desc": "نیما مهرانی — تلفیق دقت حسابداری با خلاقیت طراحی وب. با تجربه در امور مالی و اخیراً در حال ارائه وب‌سایت‌های واکنش‌گرا و کاربرپسند.",
       "ctaResume": "دانلود رزومه",
       "ctaHire": "همکاری با من",
-      "chip": "آماده همکاری فریلنسری و ریموت",
+      "chip": "آماده همکاری روی پروژه‌ها",
       "location": "تهران، ایران",
       "langs": "فارسی | انگلیسی"
     },
     "about": {
       "title": "درباره من",
-      "p1": "متخصص در توسعه وردپرس، ساخت قالب و پلاگین سفارشی، و برنامه‌نویسی فول‌استک وب. از طراحی تا استقرار، وب‌سایت‌های سریع، واکنش‌گرا و کاربرپسند می‌سازم.",
-      "p2": "تخصص من شامل PHP، جاوااسکریپت، React، CSS مدرن و اکوسیستم وردپرس است — ارائه پروژه‌هایی که هم زیبا و هم کاربردی هستند.",
+      "p1": "پیشینه من در حسابداری و امور مالی است، با تجربه کار در شرکت واردات لپ‌تاپ. اخیراً به طراحی وب علاقه‌مند شدم و شروع به ساختن وب‌سایت‌های مدرن و واکنش‌گرا کرده‌ام.",
+      "p2": "پیشینه حسابداری به من دیدگاه منحصربه‌فردی داده — با دقت، سازماندهی و نظم به طراحی وب نزدیک می‌شوم. مدام در حال یادگیری و بهبود مهارت‌های HTML، CSS و وردپرس هستم.",
       "quickTitle": "اطلاعات سریع",
       "quick": [
-        ["عنوان", "توسعه‌دهنده فول‌استک"],
-        ["تخصص", "وردپرس، PHP، React، UI/UX"],
-        ["تمرکز", "توسعه وب، طراحی سایت، سئو"]
+        ["عنوان", "طراح وب‌سایت"],
+        ["پیشینه", "حسابداری و طراحی وب"],
+        ["تمرکز", "سایت‌های تجاری، لندینگ پیج"]
       ]
     },
     "skills": {
       "title": "مهارت های کلیدی",
-      "desc": "فناوری‌ها و ابزارهایی که برای خلق ایده‌ها استفاده می‌کنم.",
+      "desc": "مهارت‌هایی که در حال توسعه و استفاده برای ساخت وب‌سایت هستم.",
       "items": [
-        ["توسعه وردپرس", 95],
-        ["PHP و MySQL", 90],
-        ["جاوااسکریپت و React", 85],
-        ["HTML / CSS / طراحی UI", 92],
-        ["توسعه فول‌استک", 88],
-        ["سئو و بهینه‌سازی", 80]
+        ["HTML و CSS", 78],
+        ["وردپرس", 70],
+        ["طراحی سایت و UI", 75],
+        ["نرم‌افزارهای حسابداری", 85],
+        ["امور مالی و اداری", 80],
+        ["اکسل و تحلیل داده", 82]
       ]
     },
     "experience": {
       "title": "سوابق شغلی",
-      "desc": "پیشینه حرفه‌ای در توسعه وب، طراحی و برنامه‌نویسی.",
+      "desc": "پیشینه حرفه‌ای در حوزه مالی و طراحی وب.",
       "items": [
-        ["۲۰۲۰ تا کنون", "فریلنسر", "توسعه‌دهنده فول‌استک و متخصص وردپرس", "ریموت — سایت‌های سفارشی، فروشگاه‌های اینترنتی، پرتال‌های سازمانی"],
-        ["۲۰۱۸ - ۲۰۲۰", "آژانس وب", "طراح و توسعه‌دهنده سایت", "تهران، ایران — راه‌حل‌های وردپرسی و سفارشی"],
-        ["۲۰۱۶ - ۲۰۱۸", "استارتاپ", "توسعه‌دهنده وب", "تهران، ایران — توسعه فرانت‌اند و بک‌اند"]
+        ["۲۰۲۵ تا کنون", "فریلنسر", "طراح وب‌سایت", "طراحی و ساخت وب‌سایت‌های مدرن برای کسب‌وکارهای کوچک."],
+        ["۲۰۲۰ - ۲۰۲۵", "شرکت واردات لپ‌تاپ", "حسابداری و امور مالی", "تهران، ایران — مدیریت حسابداری، انبار و امور مالی شرکت واردات لپ‌تاپ."]
       ]
     },
     "education": {
       "title": "سوابق تحصیلی",
-      "desc": "پیشینه تحصیلی و سوابق آموزش رسمی.",
+      "desc": "پیشینه تحصیلی و دوره‌های حرفه‌ای.",
       "items": [
+        ["۱۴۰۳ - ۱۴۰۴", "مجتمع فنی تهران", "دوره جامع حسابداری", "دوره یکساله جامع حسابداری."],
         ["۱۳۹۳ - ۱۳۹۷", "دانشگاه", "کارشناسی حسابداری", "تهران، ایران"]
       ]
     },
@@ -171,6 +189,24 @@
     "stats": {
       "title": "آمار ریپو",
       "desc": "آمار لحظه‌ای که هر روز توسط GitHub Actions به‌روزرسانی می‌شود."
+    },
+    "report": {
+      "title": "گزارش گیت‌هاب",
+      "desc": "نمای کلی از فعالیت‌های متن‌باز و معیارهای مشارکت.",
+      "overview": "نمای کلی حساب",
+      "totalStars": "مجموع ستاره‌ها",
+      "totalForks": "مجموع فورک‌ها",
+      "totalRepos": "ریپازیتوری‌های عمومی",
+      "followers": "دنبال‌کنندگان",
+      "following": "دنبال‌شونده‌ها",
+      "pullRequests": "پول‌ریکوئست‌ها",
+      "issues": "ایسو‌ها",
+      "yearContribs": "مشارکت سالانه",
+      "contributions": "فعالیت مشارکت (۳۰ روز اخیر)",
+      "languages": "تفکیک زبان‌ها",
+      "recentActivity": "فعالیت‌های اخیر",
+      "focusAreas": "حوزه‌های تمرکز",
+      "noData": "داده‌ای در دسترس نیست."
     }
   }
 }

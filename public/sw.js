@@ -1,5 +1,6 @@
-const CACHE_NAME = 'mmehrani-v2';
-const APP_SHELL = ['/', '/manifest.webmanifest', '/favicon.ico', '/offline.html'];
+const CACHE_NAME = 'nima-site-v1';
+const BASE = '/nimamehrani';
+const APP_SHELL = [BASE + '/', BASE + '/manifest.webmanifest', BASE + '/favicon.ico', BASE + '/offline.html'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
@@ -14,6 +15,9 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
 
+  const reqUrl = new URL(event.request.url);
+  if (!reqUrl.pathname.startsWith(BASE)) return;
+
   event.respondWith(
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
@@ -24,7 +28,7 @@ self.addEventListener('fetch', (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, cloned));
           return res;
         })
-        .catch(() => caches.match('/offline.html'));
+        .catch(() => caches.match(BASE + '/offline.html'));
     })
   );
 });
