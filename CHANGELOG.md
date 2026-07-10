@@ -2,6 +2,130 @@
 
 Auto-generated from conventional commits.
 
+### 2026-07-10
+
+redesign: complete site overhaul with new content, style, and cleanup
+
+### 2026-07-09
+
+generated
+
+### 2026-07-09
+
+chore: update CI status
+
+### 2026-07-09
+
+chore: update repo stats
+
+### 2026-07-08
+
+generated
+
+### 2026-07-08
+
+chore: update CI status
+
+### 2026-07-08
+
+chore: update repo stats
+
+### 2026-07-07
+
+generated
+
+### 2026-07-07
+
+chore: update CI status
+
+### 2026-07-07
+
+chore: update repo stats
+
+### 2026-07-06
+
+generated
+
+### 2026-07-06
+
+chore: update CI status
+
+### 2026-07-06
+
+chore: update repo stats
+
+### 2026-07-05
+
+generated
+
+### 2026-07-05
+
+chore: update CI status
+
+### 2026-07-05
+
+chore: update repo stats
+
+### 2026-07-04
+
+generated
+
+### 2026-07-04
+
+chore: update CI status
+
+### 2026-07-04
+
+chore: update repo stats
+
+### 2026-07-03
+
+generated
+
+### 2026-07-03
+
+chore: update CI status
+
+### 2026-07-03
+
+chore: update repo stats
+
+### 2026-07-02
+
+generated
+
+### 2026-07-02
+
+chore: update CI status
+
+### 2026-07-02
+
+chore: update repo stats
+
+### 2026-07-01
+
+generated
+
+### 2026-07-01
+
+chore: update CI status
+
+### 2026-07-01
+
+chore: update repo stats
+
+### 2026-06-30
+
+generated
+
+### 2026-06-30
+
+chore: update CI status
+
+### 2026-06-30
+
+chore: update changelog
+
 ### 2026-06-30
 
 fix: keep layout LTR when switching languages
@@ -77,128 +201,4 @@ chore: update changelog
 ### 2026-06-30
 
 feat: complete redesign - colorful creative portfolio for Nima Mehrani
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-zero day
-Signed-off-by: nima-ha <nimaxmehrani@gmail.com>
-### 2026-06-30
-
-fix: add force-static export to sitemap and robots for static export
-
-### 2026-06-30
-
-feat: rebrand site for Nima Mehrani with proper GitHub Pages config
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update repo stats
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-30
-
-clean: remove test webhook files
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-30
-
-test: webhook test 2
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-30
-
-test: webhook test 2026-06-30 00:36:49
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-29
-
-fix: copy M.Mehrani2026.pdf to public/pdf for Vercel serving
-
-### 2026-06-29
-
-generated
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-29
-
-fix: revert GitHub username back to mohammadmehrani
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update GitHub username to madimhn
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
-
-### 2026-06-29
-
-feat: add Three.js scroll parallax background with wireframe 3D objects
-
-### 2026-06-29
-
-chore: update CI status
-
-### 2026-06-29
-
-chore: update changelog
 
