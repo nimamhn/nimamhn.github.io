@@ -129,7 +129,7 @@ export default function Home() {
       <section className="hero" id="home">
         <div className="container">
           <div style={{ display: "flex", alignItems: "center", flexWrap: "wrap", gap: "40px" }}>
-            <div style={{ flex: "1 1 50%", minWidth: 300 }}>
+            <div style={{ flex: "1 1 60%", minWidth: 300 }}>
               <Reveal>
                 <p className="eyebrow"><i className="bi bi-code-slash" /> {t.hero.eyebrow}</p>
               </Reveal>
@@ -156,17 +156,6 @@ export default function Home() {
                   <span><i className="bi bi-translate" /> {t.hero.langs}</span>
                   <span><i className="bi bi-telephone" /> 09377798775</span>
                   <span><i className="bi bi-envelope" /> nimaxmehrani@gmail.com</span>
-                </div>
-              </Reveal>
-            </div>
-            <div style={{ flex: "1 1 35%", minWidth: 260, textAlign: "center" }}>
-              <Reveal delay={0.15}>
-                <div className="profile-card">
-                  <Image src="/images/profile.jpg" alt="Nima Mehrani" width={320} height={320} style={{ width: "100%", maxWidth: 320, height: "auto", borderRadius: "20px", border: "2px solid var(--border)", boxShadow: "var(--shadow)" }} priority />
-                  <div className="profile-chip">
-                    <i className="bi bi-shield-check" />
-                    <span>{t.hero.chip}</span>
-                  </div>
                 </div>
               </Reveal>
             </div>

@@ -15,7 +15,7 @@ export const metadata = {
     description: "Nima Mehrani — website designer with accounting background. Clean, modern sites for businesses.",
     url: BASE,
     siteName: "Nima Mehrani",
-    images: [{ url: BASE + "/images/profile.jpg", width: 1200, height: 630 }],
+    images: [{ url: BASE + "/images/flow01.jpeg", width: 1200, height: 630 }],
     locale: "en_US",
     type: "website"
   },
@@ -23,7 +23,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Nima Mehrani | Full-Stack Developer",
     description: "Nima Mehrani | Full-Stack Developer, WordPress Expert & Site Designer",
-    images: [BASE + "/images/profile.jpg"]
+    images: [BASE + "/images/flow01.jpeg"]
   },
   robots: { index: true, follow: true },
   alternates: { canonical: BASE }
