@@ -2,6 +2,38 @@
 
 Auto-generated from conventional commits.
 
+### 2026-07-11
+
+replace profile photo
+
+### 2026-07-11
+
+chore: update CI status
+
+### 2026-07-11
+
+chore: update repo stats
+
+### 2026-07-10
+
+generated
+
+### 2026-07-10
+
+chore: update CI status
+
+### 2026-07-10
+
+chore: update repo stats
+
+### 2026-07-10
+
+chore: update CI status
+
+### 2026-07-10
+
+chore: update changelog
+
 ### 2026-07-10
 
 feat: move to root domain, replace contact widget with React component, fix nav/contact bugs
@@ -169,36 +201,4 @@ fix: keep layout LTR when switching languages
 ### 2026-06-30
 
 chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-refactor: simplify footer text
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-fix: use next/image for basePath-aware image paths
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-feat: change site font to Vazirmatn
 
