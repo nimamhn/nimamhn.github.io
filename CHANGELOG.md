@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-07-11
 
+remove profile photo, remove profile card from hero
+
+### 2026-07-11
+
+chore: update CI status
+
+### 2026-07-11
+
+chore: update changelog
+
+### 2026-07-11
+
 replace profile photo
 
 ### 2026-07-11
@@ -185,18 +197,6 @@ chore: update repo stats
 ### 2026-06-30
 
 generated
-
-### 2026-06-30
-
-chore: update CI status
-
-### 2026-06-30
-
-chore: update changelog
-
-### 2026-06-30
-
-fix: keep layout LTR when switching languages
 
 ### 2026-06-30
 
