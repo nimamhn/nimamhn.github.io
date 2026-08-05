@@ -2,203 +2,203 @@
 
 Auto-generated from conventional commits.
 
-### 2026-07-13
+### 2026-08-05
 
-trigger deploy
+feat: replace quick contact with iodeck-style chat box, remove wallet box
 
-### 2026-07-12
-
-generated
-
-### 2026-07-12
-
-chore: update CI status
-
-### 2026-07-12
-
-chore: update repo stats
-
-### 2026-07-11
+### 2026-08-04
 
 generated
 
-### 2026-07-11
+### 2026-08-04
 
 chore: update CI status
 
-### 2026-07-11
-
-chore: update changelog
-
-### 2026-07-11
-
-remove profile photo, remove profile card from hero
-
-### 2026-07-11
-
-chore: update CI status
-
-### 2026-07-11
-
-chore: update changelog
-
-### 2026-07-11
-
-replace profile photo
-
-### 2026-07-11
-
-chore: update CI status
-
-### 2026-07-11
+### 2026-08-04
 
 chore: update repo stats
 
-### 2026-07-10
+### 2026-08-03
 
 generated
 
-### 2026-07-10
+### 2026-08-03
 
 chore: update CI status
 
-### 2026-07-10
+### 2026-08-03
 
 chore: update repo stats
 
-### 2026-07-10
-
-chore: update CI status
-
-### 2026-07-10
-
-chore: update changelog
-
-### 2026-07-10
-
-feat: move to root domain, replace contact widget with React component, fix nav/contact bugs
-
-### 2026-07-10
-
-chore: update CI status
-
-### 2026-07-10
-
-chore: update changelog
-
-### 2026-07-10
-
-add resume PDF
-
-### 2026-07-10
-
-chore: update CI status
-
-### 2026-07-10
-
-chore: update changelog
-
-### 2026-07-10
-
-cleanup: remove unused deps, fix CI workflow, update worker config
-
-### 2026-07-10
-
-chore: update CI status
-
-### 2026-07-10
-
-chore: update changelog
-
-### 2026-07-10
-
-redesign: complete site overhaul with new content, style, and cleanup
-
-### 2026-07-09
+### 2026-08-02
 
 generated
 
-### 2026-07-09
+### 2026-08-02
 
 chore: update CI status
 
-### 2026-07-09
+### 2026-08-02
 
 chore: update repo stats
 
-### 2026-07-08
+### 2026-08-01
 
 generated
 
-### 2026-07-08
+### 2026-08-01
 
 chore: update CI status
 
-### 2026-07-08
+### 2026-08-01
 
 chore: update repo stats
 
-### 2026-07-07
+### 2026-07-31
 
 generated
 
-### 2026-07-07
+### 2026-07-31
 
 chore: update CI status
 
-### 2026-07-07
+### 2026-07-31
 
 chore: update repo stats
 
-### 2026-07-06
+### 2026-07-30
 
 generated
 
-### 2026-07-06
+### 2026-07-30
 
 chore: update CI status
 
-### 2026-07-06
+### 2026-07-30
 
 chore: update repo stats
 
-### 2026-07-05
+### 2026-07-29
 
 generated
 
-### 2026-07-05
+### 2026-07-29
 
 chore: update CI status
 
-### 2026-07-05
+### 2026-07-29
 
 chore: update repo stats
 
-### 2026-07-04
+### 2026-07-28
 
 generated
 
-### 2026-07-04
+### 2026-07-28
 
 chore: update CI status
 
-### 2026-07-04
+### 2026-07-28
 
 chore: update repo stats
 
-### 2026-07-03
+### 2026-07-27
 
 generated
 
-### 2026-07-03
+### 2026-07-27
 
 chore: update CI status
 
-### 2026-07-03
+### 2026-07-27
 
 chore: update repo stats
 
-### 2026-07-02
+### 2026-07-26
+
+generated
+
+### 2026-07-26
+
+chore: update CI status
+
+### 2026-07-26
+
+chore: update repo stats
+
+### 2026-07-25
+
+generated
+
+### 2026-07-25
+
+chore: update CI status
+
+### 2026-07-25
+
+chore: update repo stats
+
+### 2026-07-24
+
+generated
+
+### 2026-07-24
+
+chore: update CI status
+
+### 2026-07-24
+
+chore: update repo stats
+
+### 2026-07-23
+
+generated
+
+### 2026-07-23
+
+chore: update CI status
+
+### 2026-07-23
+
+chore: update repo stats
+
+### 2026-07-22
+
+generated
+
+### 2026-07-22
+
+chore: update CI status
+
+### 2026-07-22
+
+chore: update repo stats
+
+### 2026-07-21
+
+generated
+
+### 2026-07-21
+
+chore: update CI status
+
+### 2026-07-21
+
+chore: update repo stats
+
+### 2026-07-20
+
+generated
+
+### 2026-07-20
+
+chore: update CI status
+
+### 2026-07-20
+
+chore: update repo stats
+
+### 2026-07-19
 
 generated
 
