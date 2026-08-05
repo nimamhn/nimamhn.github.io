@@ -133,7 +133,7 @@ export default function ChatBox() {
   const closeSidebar = () => setOpen(false);
 
   const send = (text) => {
-    if (!text.trim() || typing) return;
+    if (!text.trim()) return;
     const clean = text.trim();
     setBarValue("");
     setSideValue("");
