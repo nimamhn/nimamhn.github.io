@@ -90,21 +90,29 @@ export default function ChatBox() {
   const bodyRef = useRef(null);
 
   useEffect(() => {
-    setLang(localStorage.getItem("site_lang") === "fa" ? "fa" : "en");
+    const sync = () => setLang(localStorage.getItem("site_lang") === "fa" ? "fa" : "en");
+    sync();
+    const mo = new MutationObserver(sync);
+    mo.observe(document.documentElement, { attributes: true, attributeFilter: ["lang"] });
+    window.addEventListener("storage", sync);
+    return () => {
+      mo.disconnect();
+      window.removeEventListener("storage", sync);
+    };
   }, []);
 
   useEffect(() => {
-    const t = I18N[lang];
-    if (open && !greeted && messages.length === 0 && !typing) {
-      setGreeted(true);
-      setTyping(true);
-      const id = setTimeout(() => {
-        setTyping(false);
-        setMessages([{ id: Date.now(), text: t.welcome, user: false }]);
-      }, 700);
-      return () => clearTimeout(id);
-    }
-  }, [open, greeted, lang, messages.length, typing]);
+    if (!open || greeted || messages.length > 0) return;
+    setGreeted(true);
+    setTyping(true);
+    const id = setTimeout(() => {
+      setTyping(false);
+      setMessages((m) =>
+        m.length === 0 ? [{ id: Date.now(), text: I18N[lang].welcome, user: false }] : m
+      );
+    }, 700);
+    return () => clearTimeout(id);
+  }, [open, greeted]);
 
   useEffect(() => {
     const id = setTimeout(() => {
