@@ -1,5 +1,5 @@
 import "./globals.css";
-import QuickContact from "../components/QuickContact";
+import ChatBox from "../components/ChatBox";
 
 const BASE = "https://nimamhn.github.io";
 
@@ -40,7 +40,7 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         {children}
-        <QuickContact />
+        <ChatBox />
       </body>
     </html>
   );

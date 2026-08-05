@@ -415,34 +415,6 @@ export default function Home() {
                     <a href="https://github.com/nimamhn" target="_blank" aria-label="GitHub"><i className="bi bi-github" /></a>
                     <a href="https://t.me/nima4mehrani" target="_blank" aria-label="Telegram"><i className="bi bi-telegram" /></a>
                   </div>
-                  <div className="donate-box">
-                    <div className="donate-section">
-                      <h4 className="donate-subtitle">{lang === "fa" ? "حمایت مالی" : "Support"}</h4>
-                      <div className="wallet-usdt">
-                        <div className="wallet-main">
-                          <svg className="wallet-badge" viewBox="0 0 48 48" width="44" height="44" aria-hidden="true">
-                            <defs><linearGradient id="usdtGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stopColor="#26A17B"/><stop offset="100%" stopColor="#1d8b67"/></linearGradient></defs>
-                            <circle cx="24" cy="24" r="22" fill="url(#usdtGrad)"/>
-                            <text fontFamily="Arial,Helvetica,sans-serif" fill="#fff" fontSize="20" fontWeight="800" textAnchor="middle" x="24" y="32">{lang === "fa" ? "₮" : "$"}</text>
-                          </svg>
-                          <div className="wallet-body">
-                            <span className="wallet-label">{lang === "fa" ? "ارسال تتر" : "SEND USDT"}</span>
-                            <code>TM4uZRWBHDtzRQrYgdFhuiNrvDiaJgPFtS</code>
-                          </div>
-                        </div>
-                        <div className="wallet-qr">
-                          <img src={`https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=TM4uZRWBHDtzRQrYgdFhuiNrvDiaJgPFtS`} alt="USDT Wallet" width={120} height={120} loading="lazy" />
-                        </div>
-                      </div>
-                    </div>
-                    <div className="donate-section">
-                      <h4 className="donate-subtitle">{lang === "fa" ? "وقت محلی (تهران)" : "Local Time (Tehran)"}</h4>
-                      <div className="clock-face">
-                        <span className="clock-tz">IRST (UTC+3:30)</span>
-                        <span>{clock}</span>
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </Reveal>
             </div>
