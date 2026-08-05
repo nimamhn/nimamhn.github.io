@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-08-05
 
+fix: network-first service worker + remove typing send-lock
+
+### 2026-08-05
+
+chore: update CI status
+
+### 2026-08-05
+
+chore: update changelog
+
+### 2026-08-05
+
 fix: chat typing stuck on welcome message + live language sync
 
 ### 2026-08-05
@@ -187,18 +199,6 @@ chore: update CI status
 chore: update repo stats
 
 ### 2026-07-21
-
-generated
-
-### 2026-07-21
-
-chore: update CI status
-
-### 2026-07-21
-
-chore: update repo stats
-
-### 2026-07-20
 
 generated
 
