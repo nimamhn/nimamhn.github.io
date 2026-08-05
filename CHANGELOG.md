@@ -4,6 +4,18 @@ Auto-generated from conventional commits.
 
 ### 2026-08-05
 
+fix: chat typing stuck on welcome message + live language sync
+
+### 2026-08-05
+
+chore: update CI status
+
+### 2026-08-05
+
+chore: update changelog
+
+### 2026-08-05
+
 feat: replace quick contact with iodeck-style chat box, remove wallet box
 
 ### 2026-08-04
@@ -187,18 +199,6 @@ chore: update CI status
 chore: update repo stats
 
 ### 2026-07-20
-
-generated
-
-### 2026-07-20
-
-chore: update CI status
-
-### 2026-07-20
-
-chore: update repo stats
-
-### 2026-07-19
 
 generated
 
